@@ -117,4 +117,4 @@ This README provides an introduction to the DUM framework. For further explorati
 ## License<a name="lisence">
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). 
 
-Please attribute this work as follows: Anthony Mark Reynolds, The Deep Unconscious Mind (DUM) Framework. 
+Please attribute this work as follows: Quasi-Mind, The Deep Unconscious Mind (DUM) Framework.
