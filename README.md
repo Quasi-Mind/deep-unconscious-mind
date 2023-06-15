@@ -1,5 +1,5 @@
 # Deep Unconscious Mind (DUM) Framework
-
+<a href="https://discord.gg/St7hs9MRtu" target="_blank">![Discord Banner 2](https://discordapp.com/api/guilds/1118802264350531727/widget.png?style=banner2)</a>
 ## Table of Contents
 - 📜 [Introduction](#introduction)
   - 💡 [Motivation for DUM](#motivation-for-dum)
