@@ -20,9 +20,9 @@
 - 🛠️ [Usage](#usage)
 - 🧭 [Ethical Considerations](#ethical-considerations)
 - 🧠 [Potential Applications in Psychology](#potential-applications-in-psychology)
-- [Roadmap](#roadmap)
+- 🛣️ [Roadmap](#roadmap)
 - 📝 [Conclusion](#conclusion)
-- [License](#license)
+- 📄️ [License](#license)
 
 ## 📜 Introduction<a name="introduction"></a>
 
