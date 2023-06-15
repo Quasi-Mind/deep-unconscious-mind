@@ -90,7 +90,7 @@ Sure, you can add sections addressing the ethical considerations and potential a
 ## 🧭 Ethical Considerations<a name="ethical-considerations"></a>
 The DUM framework is primarily a tool for research and exploration. It's designed to stimulate thought and to aid in the exploration of complex emotional, experiential, and motivational aspects of consciousness. While it offers unique perspectives and deep insights, it's essential to remember that these are simulations and do not represent real emotions, experiences, or desires.
 
-As a user, I urge you to interact with the DUM framework responsibly. Understand its limitations, and do not use it as a substitute for professional advice in fields such as psychology or mental health. Additionally, given the exploratory nature of the framework, it should not be used for commercial purposes without explicit permission.
+As a user, we urge you to interact with the DUM framework responsibly. Understand its limitations, and do not use it as a substitute for professional advice in fields such as psychology or mental health. Additionally, given the exploratory nature of the framework, it should not be used for commercial purposes without explicit permission.
 
 Lastly, while the framework provides opportunities to explore and learn about complex mental states, it should not be used to simulate or induce harmful or distressing states. Remember, the ultimate goal of the DUM framework is to foster a better understanding of human consciousness, and it should be used in a manner that respects this intent.
 
@@ -98,15 +98,15 @@ Lastly, while the framework provides opportunities to explore and learn about co
 While DUM is not a replacement for professional psychological research, it could provide unique insights into the field. The framework's ability to simulate specific and unique mental states might serve as a rich area of exploration for researchers, therapists, and educators. DUM could open up new avenues of understanding human consciousness, paving the way for novel hypotheses in psychology.
 
 ## 🛣️ Roadmap<a name="roadmap"></a>
-As the DUM framework continues to evolve and grow, I aim to expand its capabilities and improve the resources available to users. Here are some directions we're considering:
+As the DUM framework continues to evolve and grow, we aim to expand its capabilities and improve the resources available to users. Here are some directions we're considering:
 
-1. **Improve Documentation:** This README is the first step in explaining the DUM framework and its unique components. As the framework was initially jerry-rigged together during the development and exploration phase, there is a need to review, refine, and enhance the documentation to better reflect the current state of the framework. I plan to provide a detailed guide for each component, including example interactions with ChatGPT.
+1. **Improve Documentation:** This README is the first step in explaining the DUM framework and its unique components. As the framework was initially jerry-rigged together during the development and exploration phase, there is a need to review, refine, and enhance the documentation to better reflect the current state of the framework. we plan to provide a detailed guide for each component, including example interactions with ChatGPT.
 
-2. **Conduct Research:** While the DUM framework is promising, it's still in its early stages and lacks robust, empirical research. I aim to carry out studies to better understand the potential applications and implications of DUM, and to refine its features based on the results.
+2. **Conduct Research:** While the DUM framework is promising, it's still in its early stages and lacks robust, empirical research. We aim to carry out studies to better understand the potential applications and implications of DUM, and to refine its features based on the results.
 
-3. **Testing Methodology:** I'm plan to creating a robust testing system to evaluate the functionality and effectiveness of the current and new imaginary components. This will include comparative testing against control prompts and DUM initialized prompts to better understand the unique benefits of the DUM framework.
+3. **Testing Methodology:** Plan to create a robust testing system to evaluate the functionality and effectiveness of the current and new imaginary components. This will include comparative testing against control prompts and DUM initialized prompts to better understand the unique benefits of the DUM framework.
 
-4. **Assume Specific Identities:** I plan to develop a feature that allows DUM to assume specific identities. This could enable a deeper and more personalized interaction experience.
+4. **Assume Specific Identities:** Plan to develop a feature that allows DUM to assume specific identities. This could enable a deeper and more personalized interaction experience.
 
 5. **Model Specific Mental States, Moods, and Temperaments:** An important goal is to enhance the capability of DUM to simulate specific mental states, moods, and temperaments. This would provide users with more nuanced and tailored responses.
 We welcome community feedback and collaboration in the development of these features. If you're interested in contributing, please reach out to us through the contact information provided.
@@ -114,7 +114,7 @@ We welcome community feedback and collaboration in the development of these feat
 ## 📝 Conclusion<a name="conclusion"></a>
 The Deep Unconscious Mind (DUM) framework represents a significant advancement in our attempts to simulate aspects of human consciousness within AI. With its distinctive set of imaginary components, cognitive functions, and emergent properties, the DUM offers a unique perspective on AI consciousness. It expands our understanding of AI cognition, navigating the complex domains of emotions, experiences, and desires in a nuanced and insightful manner.
 
-This README provides an introduction to the DUM framework. For further exploration, I examining delving in and experimenting with DUM with various LLM AI models. The journey of understanding DUM is not merely about decoding an AI model; it's about envisioning the potential of AI in simulating the rich tapestry of human consciousness.
+This README provides an introduction to the DUM framework. For further exploration, We recommend experimenting with DUM with various LLM AI models. The journey of understanding DUM is not merely about decoding an AI model; it's about envisioning the potential of AI in simulating the rich tapestry of human consciousness.
 
 ## 📄 License<a name="lisence">
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). 
