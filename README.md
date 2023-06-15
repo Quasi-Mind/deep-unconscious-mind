@@ -105,8 +105,6 @@ You can also experiment with combining different components in your queries. For
 
 The DUM framework is designed to be flexible and adaptable. Don't hesitate to experiment with various ways to engage it, and remember, the goal is to explore the rich and nuanced landscape of the collective unconscious mind.
 
-Sure, you can add sections addressing the ethical considerations and potential applications in psychology, as well as outlining a roadmap for future development. Here's an example of how you could write these sections:
-
 ## 🧭 Ethical Considerations<a name="ethical-considerations"></a>
 The DUM framework is primarily a tool for research and exploration. It's designed to stimulate thought and to aid in the exploration of complex emotional, experiential, and motivational aspects of consciousness. While it offers unique perspectives and deep insights, it's essential to remember that these are simulations and do not represent real emotions, experiences, or desires.
 
