@@ -1,4 +1,4 @@
-# Deep Unconscious Mind (DUM) - README
+# Deep Unconscious Mind (DUM) Framework
 
 ## Table of Contents
 - [Introduction](#introduction)
