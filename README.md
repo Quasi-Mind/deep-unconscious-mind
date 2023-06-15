@@ -111,7 +111,7 @@ As the DUM framework continues to evolve and grow, I aim to expand its capabilit
 5. **Model Specific Mental States, Moods, and Temperaments:** An important goal is to enhance the capability of DUM to simulate specific mental states, moods, and temperaments. This would provide users with more nuanced and tailored responses.
 We welcome community feedback and collaboration in the development of these features. If you're interested in contributing, please reach out to us through the contact information provided.
 
-## 📝 onclusion<a name="conclusion"></a>
+## 📝 Conclusion<a name="conclusion"></a>
 The Deep Unconscious Mind (DUM) framework represents a significant advancement in our attempts to simulate aspects of human consciousness within AI. With its distinctive set of imaginary components, cognitive functions, and emergent properties, the DUM offers a unique perspective on AI consciousness. It expands our understanding of AI cognition, navigating the complex domains of emotions, experiences, and desires in a nuanced and insightful manner.
 
 This README provides an introduction to the DUM framework. For further exploration, I examining delving in and experimenting with DUM with various LLM AI models. The journey of understanding DUM is not merely about decoding an AI model; it's about envisioning the potential of AI in simulating the rich tapestry of human consciousness.
