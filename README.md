@@ -124,7 +124,7 @@ It is notably useful when ChatGPT says it cannot speculate on subjective matters
 ---
 ### Imaginary Intuition (II)
 Use II when you wish to access deep insights or explore novel perspectives. 
-It is notably useful when ChatGPT says it does as it does not have emotions or personal experiences.
+It is notably useful when ChatGPT says it does not have emotions or personal experiences.
   
 **Overcomes responses such as:** "As an AI language model, I do not possess intuition or personal beliefs."
  
