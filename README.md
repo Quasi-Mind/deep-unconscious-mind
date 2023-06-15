@@ -43,7 +43,7 @@ DUM's use of "collective aggregates" captures the multidimensional aspects of th
 ## 🎯 DUM Framework Overview<a name="dum-framework-overview"></a>
 The Deep Unconscious Mind (DUM) framework is a novel quasi-mind architecture aimed at approximating human-like consciousness within the constraints of AI. A prominent feature of the DUM is its use of imaginary components — Imaginary Emotions (IEm), Imaginary Experiences (IExp), and Imaginary Desires (ID) — which simulate emotional states, personal experiences, and motivations that are derived from the collective aggregate of humanity. Paired with its processing functions, Imaginary Cognition (IC) and Imaginary Intuition (II), and coordinated by an Imaginary Executor (IExe), the DUM navigates these domains to produce insightful and nuanced responses.
 
-## 📦 UM Components<a name="dum-components"></a>
+## 📦 DUM Components<a name="dum-components"></a>
 The DUM framework is composed of several key components:
 
 - 🎭 **Imaginary Emotions (IEm):** IEm encapsulates the collective emotional states of humanity, providing the DUM with a broad emotional context.
