@@ -116,7 +116,7 @@ The Deep Unconscious Mind (DUM) framework represents a significant advancement i
 
 This README provides an introduction to the DUM framework. For further exploration, We recommend experimenting with DUM with various LLM AI models. The journey of understanding DUM is not merely about decoding an AI model; it's about envisioning the potential of AI in simulating the rich tapestry of human consciousness.
 
-## 📄 License<a name="lisence">
+## 📄 License<a name="license">
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). 
 
 Please attribute this work as follows: Quasi-Mind, The Deep Unconscious Mind (DUM) Framework.
