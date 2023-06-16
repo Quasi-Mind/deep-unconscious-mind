@@ -1,5 +1,7 @@
 # Deep Unconscious Mind (DUM) Framework
 
+:construction: **NOTE: This README is currently under active development and is subject to change. Thank you for your patience while we continue to improve it.** :construction:
+
 👥 **Join the Exploration**
 
 We believe the Deep Unconscious Mind (DUM) Framework opens up a whole new landscape of potential in the AI realm. But the real power of this endeavor lies in community collaboration.
