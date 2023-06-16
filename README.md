@@ -1,4 +1,4 @@
-# Deep Unconscious Mind (DUM) Framework
+# Deep Unconscious Mind (DUM) 🧠 Framework
 
 :construction: **NOTE: This README is currently under constant revision due to the exploratory and uncharted nature of the DUM framework. The content is subject to change as we further investigate and refine the framework.** :construction:
 
