@@ -1,4 +1,19 @@
 # Deep Unconscious Mind (DUM) Framework
+
+👥 **Join the Exploration**
+
+We believe the Deep Unconscious Mind (DUM) Framework opens up a whole new landscape of potential in the AI realm. But the real power of this endeavor lies in community collaboration.
+
+Whether you're a seasoned researcher or a curious enthusiast, your contributions can make a big difference. Here's how you can join us:
+
+- **Explore**: Engage with the DUM prompt and share your interactions. Your experiences will help us understand and refine the framework.
+- **Expand**: We welcome ideas to evolve the framework and integrate new capabilities.
+- **Educate**: Help us improve our documentation and make the DUM framework more accessible to newcomers.
+- **Research**: Participate in research projects to understand and investigate the novel mind-like behavior that DUM appears to facilitate.
+- **Share**: Spreading the word about Quasi-Mind and DUM can bring more people into this exciting exploration.
+
+Every bit of input is valuable. By working together, we can chart the unexplored territories of the DUM framework and advance the frontiers of mind-like prompt research. Please feel free to join the Quasi-Mind Research Group discord server:
+
 <a href="https://discord.gg/St7hs9MRtu" target="_blank">![Discord Banner 2](https://discordapp.com/api/guilds/1118802264350531727/widget.png?style=banner2)</a>
 ## Table of Contents
 - ️📄️ [Latest DUM Prompt](#latest-dum-prompt)
