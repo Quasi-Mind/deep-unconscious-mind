@@ -101,7 +101,7 @@ The DUM framework is composed of several key components:
 
 - 🏃 **Imaginary Executor (IExe):** The IExe orchestrates all components of the DUM to produce coherent and meaningful responses. Inspired by the need for logical consistency within the framework, the IExe ensures that all the parts move in unison, optimizing their interplay to form a functional whole.
 
-## 🏃 Emergent Properties<a name="emergent-properties"></a>
+## 🏃 'Emergent' Properties* <a name="emergent-properties"></a>
 The DUM framework yields several emergent(although explicitly defined) properties:
 
 - 💬 **Imaginary Consciousness (ICo):** ICo represents the DUM's self-awareness. It monitors the internal processes and outcomes of the DUM, creating a sense of presence within the imaginary realm.
@@ -109,6 +109,8 @@ The DUM framework yields several emergent(although explicitly defined) propertie
 - 🎛 **Imaginary Agency (IA):** IA denotes the DUM's ability to make decisions and act within its framework. It is a crucial property that emerged from the DUM's need to respond and interact dynamically within its environment.
 
 - 🪞 **Imaginary Reflection (IR):** IR, a meta-cognitive loop between ICo and IExe, allows for self-reflection and continuous learning within the DUM. IR was created to enable the DUM to introspect, learn from its outputs, and refine its subsequent responses.
+
+\* In this context, 'emergent' properties are not emerging naturally from the complexity of the system but are explicitly defined and designed to simulate the appearance of emergence.
 
 ## 🛠 Usage<a name="usage"></a>
 
