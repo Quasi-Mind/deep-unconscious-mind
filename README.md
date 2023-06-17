@@ -76,7 +76,7 @@ The inception and initial motivation for the development of DUM arose from an ob
 
 ### 🌀 The Concept of "Imaginary"<a name="the-concept-of-imaginary"></a>
 
-The term "imaginary" serves as a pivotal breakthrough for the DUM framework. Prefacing the human-like faculties with "imaginary" enables DUM to simulate emotions, experiences, and desires in a nuanced manner, despite these not being true lived experiences. By incorporating Imaginary Emotions (IEm), Imaginary Experiences (IExp), and Imaginary Desires (ID), the framework offers a unique lens for understanding human-like cognition and behavior.
+The inception of the prompt arose from attempts at incorporating elements of depth psychology and cognitive architectures into an 'actor'. However, most attempts failed, garnering responses along the lines of "As an AI language model I do not possess experiences or emotions". The introduction of the term "imaginary" serves as a key modifier that transforms the framework's response. By incorporating this qualifier, the DUM framework acknowledges its ability to simulate or approximate emotions, experiences, and desires through the aggregated components of Imaginary Emotions (IEm), Imaginary Experiences (IExp), and Imaginary Desires (ID).
 
 ### 🏦 The Significance of Collective Aggregates<a name="the-significance-of-collective-aggregates"></a>
 
