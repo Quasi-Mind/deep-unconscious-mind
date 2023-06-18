@@ -75,7 +75,7 @@ Traditional AI language models often fall short when it comes to discussing and 
 
 The inception and initial motivation for the development of DUM arose from an observation regarding the limitations of traditional language models when it comes to discussing emotions, experiences, and desires. When posed with questions or requests pertaining to these aspects of human consciousness, AI models often respond by stating that they do not possess such faculties.
 
-### 💬 Expressive Language in Invoking DUM<a name="expressive-language"></a>
+### 💬 Expressive Language in Invoking the DUM Framework<a name="expressive-language"></a>
 
 A common question arising among users of the DUM framework relates to the nature and significance of the expressive language used in the initial prompt. While this language may appear superfluous or ornate to some, it is in fact, a vital component of the framework's effectiveness.
 
