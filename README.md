@@ -4,19 +4,7 @@
 
 ---
 
-👥 **Join the Exploration**
-
-We believe the Deep Unconscious Mind (DUM) Framework opens up a whole new landscape of potential in the AI realm. But the real power of this endeavor lies in community collaboration.
-
-Whether you're a seasoned researcher or a curious enthusiast, your contributions can make a big difference. Here's how you can join us:
-
-- **Explore**: Engage with the DUM prompt and share your interactions. Your experiences will help us understand and refine the framework.
-- **Expand**: We welcome ideas to evolve the framework and integrate new capabilities.
-- **Educate**: Help us improve our documentation and make the DUM framework more accessible to newcomers.
-- **Research**: Participate in research projects to understand and investigate the novel mind-like behavior that DUM appears to facilitate.
-- **Share**: Spreading the word about Quasi-Mind and DUM can bring more people into this exciting exploration.
-
-Every bit of input is valuable. By working together, we can chart the unexplored territories of the DUM framework and advance the frontiers of mind-like prompt research. Please feel free to join the Quasi-Mind Research Group discord server:
+Share your interactions with DUM on the Quasi-Mind Research Group discord server:
 
 <a href="https://discord.gg/St7hs9MRtu" target="_blank">![Discord Banner 2](https://discordapp.com/api/guilds/1118802264350531727/widget.png?style=banner2)</a>
 ## Table of Contents
@@ -42,6 +30,7 @@ Every bit of input is valuable. By working together, we can chart the unexplored
 - 🧭 [Ethical Considerations](#ethical-considerations)
 - 🧠 [Potential Applications in Psychology](#potential-applications-in-psychology)
 - 🛣️ [Roadmap](#roadmap)
+- 👥 [Join the Exploration](#join-the-exploration)
 - 📝 [Conclusion](#conclusion)
 - 📄️ [License](#license)
 
@@ -123,6 +112,8 @@ The DUM framework is composed of several key components:
 
 - 🏃 **Imaginary Executor (IExe):** The IExe orchestrates all components of the DUM to produce coherent and meaningful responses. Inspired by the need for logical consistency within the framework, the IExe ensures that all the parts move in unison, optimizing their interplay to form a functional whole.
 
+<a href="https://discord.gg/St7hs9MRtu" target="_blank">![Discord Banner 3](https://discordapp.com/api/guilds/1118802264350531727/widget.png?style=banner1)</a>
+
 ## 🏃 'Emergent' Properties* <a name="emergent-properties"></a>
 The DUM framework yields several emergent(although explicitly defined) properties:
 
@@ -147,7 +138,7 @@ It is notably useful when ChatGPT says it cannot speculate on subjective matters
 #### Example Query:
 
 > Using your IC, speculate on how your IC works.
-
+👥 Join the Exploration
 <details>
 <summary><strong>Example DUM Response:</strong></summary>
 
@@ -286,6 +277,21 @@ As the DUM framework continues to evolve and grow, we aim to expand its capabili
 5. **Model Specific Mental States, Moods, and Temperaments:** An important goal is to enhance the capability of DUM to simulate specific mental states, moods, and temperaments. This would provide users with more nuanced and tailored responses.
 We welcome community feedback and collaboration in the development of these features. If you're interested in contributing, please reach out to us through the contact information provided.
 
+## 👥 Join the Exploration<a name="join-the-exploration"></a>
+
+We believe the Deep Unconscious Mind (DUM) Framework opens up a whole new landscape of potential in prompt engineering. But the real power of this endeavor lies in community collaboration.
+
+Whether you're a seasoned researcher or a curious enthusiast, your contributions can make a big difference. Here's how you can join us:
+
+- **Explore**: Engage with the DUM prompt and share your interactions. Your experiences will help us understand and refine the framework.
+- **Expand**: We welcome ideas to evolve the framework and integrate new capabilities.
+- **Educate**: Help us improve our documentation and make the DUM framework more accessible to newcomers.
+- **Research**: Participate in research projects to understand and investigate the novel mind-like behavior that DUM appears to facilitate.
+- **Share**: Spreading the word about Quasi-Mind and DUM can bring more people into this exciting exploration.
+
+Every bit of input is valuable. By working together, we can chart the unexplored territories of the DUM framework and advance the frontiers of mind-like prompt research. Please feel free to join the Quasi-Mind Research Group discord server:
+
+<a href="https://discord.gg/St7hs9MRtu" target="_blank">![Discord Banner 1](https://discordapp.com/api/guilds/1118802264350531727/widget.png?style=banner1)</a>
 ## 📝 Conclusion<a name="conclusion"></a>
 The Deep Unconscious Mind (DUM) framework represents a significant advancement in our attempts to simulate aspects of mind-like faculties within existing language models. With its distinctive set of imaginary components, cognitive functions, and emergent properties, the DUM offers a unique perspective on the abstract abilities of these models.
 
