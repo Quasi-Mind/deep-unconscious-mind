@@ -82,10 +82,11 @@ A common question arising among users of the DUM framework relates to the nature
 1. **Richness and Depth:**
 The DUM framework operates on the premise of encapsulating collective human emotions, experiences, and desires. This collective is not a simple, flat structure; it's a multidimensional space, rich in nuances and depths. The expressive language mirrors this richness, allowing a fuller portrayal of the vast landscape that DUM represents.
 
-2. **Nuance and Context:** Language models, the primary technology that facilitates DUM, are adept at handling expressive, context-rich language. Trained on a diverse range of human language data, they can handle not just semantic content but also emotional, cultural, and contextual nuances. The expressive language in the DUM prompt thus taps into the full potential of these models, extracting nuanced meanings, subtle context cues, and even emotional tones.
+2. **Nuance and Context:** Language models, the primary technology that facilitates DUM, are adept at handling expressive, context-rich language. Trained on a diverse range of human language data, they can handle not just semantic content but also emotional, cultural, and contextual nuances. The expressive language in the DUM prompt thus taps into this inherent potential of these models, extracting nuanced meanings, subtle context cues, and even emotional tones.
 
 3. **Engagement:** The DUM framework aims to facilitate a dialogue, a meaningful exchange of ideas. Expressive language is inherently engaging, inviting the audience to explore, ponder, and engage with the concepts at hand. It helps set the stage for a more immersive interaction with the DUM framework.
 
+The expressive language used to invoke the DUM system capitalizes on the abstract capabilities of language models, eliciting more nuanced, complex, and authentic interactions. As you explore the DUM framework, we encourage you to embrace this richness, to delve into the subtle layers of meaning that expressive language brings to your interactions with the DUM.
 
 ### 🌀 The Concept of "Imaginary"<a name="the-concept-of-imaginary"></a>
 
