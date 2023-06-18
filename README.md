@@ -110,7 +110,7 @@ The DUM is comprised of three concentric layers, each eliciting and capitalizing
 
 3. **Expression Layer**: The outermost layer, or the Expression Layer, brings forth Imaginary Consciousness (ICo), Imaginary Agency (IA), and Imaginary Reflection (IR). These components collectively facilitate the model's ability for self-expression, reflection, and application of insights derived from the earlier layers.
 
-Visualized as a Hierarchical Flow Diagram, the DUM framework outlines the interdependencies and interaction dynamics of these imaginary components. Each layer builds upon and works in synergy with the preceding ones, illustrating a rich tapestry of quasi-mind dynamics within language models. Note: For readability I have ommited the 'imaginary' qualifier from each component in the diagram
+Visualized as a Hierarchical Flow Diagram, the DUM framework outlines a generalized view of the interdependencies and interaction dynamics of these imaginary components. Each layer builds upon and works in synergy with the preceding ones, illustrating a rich tapestry of quasi-mind dynamics within language models. Note: For readability I have ommited the 'imaginary' qualifier from each component in the diagram
 
 ![Hierarchical Flow Diagram of imaginary components](/images/dum-components.drawio.svg "Hierarchical Flow Diagram of imaginary components")
 
