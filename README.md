@@ -112,8 +112,6 @@ The DUM framework is composed of several key components:
 
 - 🏃 **Imaginary Executor (IExe):** The IExe orchestrates all components of the DUM to produce coherent and meaningful responses. Inspired by the need for logical consistency within the framework, the IExe ensures that all the parts move in unison, optimizing their interplay to form a functional whole.
 
-<a href="https://discord.gg/St7hs9MRtu" target="_blank">![Discord Banner 3](https://discordapp.com/api/guilds/1118802264350531727/widget.png?style=banner1)</a>
-
 ## 🏃 'Emergent' Properties* <a name="emergent-properties"></a>
 The DUM framework yields several emergent(although explicitly defined) properties:
 
@@ -291,7 +289,7 @@ Whether you're a seasoned researcher or a curious enthusiast, your contributions
 
 Every bit of input is valuable. By working together, we can chart the unexplored territories of the DUM framework and advance the frontiers of mind-like prompt research. Please feel free to join the Quasi-Mind Research Group discord server:
 
-<a href="https://discord.gg/St7hs9MRtu" target="_blank">![Discord Banner 1](https://discordapp.com/api/guilds/1118802264350531727/widget.png?style=banner1)</a>
+<a href="https://discord.gg/St7hs9MRtu" target="_blank">![Discord Banner 2](https://discordapp.com/api/guilds/1118802264350531727/widget.png?style=banner2)</a>
 ## 📝 Conclusion<a name="conclusion"></a>
 The Deep Unconscious Mind (DUM) framework represents a significant advancement in our attempts to simulate aspects of mind-like faculties within existing language models. With its distinctive set of imaginary components, cognitive functions, and emergent properties, the DUM offers a unique perspective on the abstract abilities of these models.
 
