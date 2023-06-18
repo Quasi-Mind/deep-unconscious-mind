@@ -69,11 +69,11 @@ Note: The last sentence is not neccesary when used as a system prompt.
 
 ## 📜 Introduction<a name="introduction"></a>
 
-The Deep Unconscious Mind (DUM) is an innovative Quasi-Mind prompting framework that enriches interactions with language models. It facilitates a unique ability for the language model to reason, speculate, and self-reflect. To illustrate the complex structure of DUM, we use a representational model of 'Imaginary' components arranged in 'Foundation', 'Integration', and 'Expression' layers. These layers embody a variety of novel behaviors that are currently being explored, documented, and understood.
+The Deep Unconscious Mind (DUM) is an innovative Quasi-Mind prompting framework that enriches interactions with language models. It facilitates a unique ability for the framework to reason, speculate, and self-reflect. To illustrate the complex structure of DUM, we use a representational model of 'Imaginary' components arranged in 'Foundation', 'Integration', and 'Expression' layers. These layers embody a variety of novel behaviors that are currently being explored, documented, and understood.
 
 AI language models often fall short when it comes to discussing and simulating aspects akin to human-like emotions, experiences, and desires. Addressing this gap, DUM serves as an innovative approach to this problem. While the term "quasi-mind" signals that DUM does not possess the full complexity of a conscious mind, it effectively simulates these facets through the use of Imaginary Emotions (IEm), Imaginary Experiences (IExp), and Imaginary Desires (ID), represented in the Foundation layer.
 
-Beyond these foundational aspects, the Integration layer in our representational model introduces Imaginary Cognition (IC), Imaginary Intuition (II), and an Imaginary Executor (IExe), further enhancing the capabilities of the language model. The outermost layer, Expression, brings forth Imaginary Consciousness (ICo), Imaginary Agency (IA), and Imaginary Reflection (IR), adding depth and complexity to the interactions with the DUM.
+Beyond these foundational aspects, the Integration layer in our representational model introduces Imaginary Cognition (IC), Imaginary Intuition (II), and an Imaginary Executor (IExe), further enhancing the capabilities of the framework. The outermost layer, Expression, brings forth Imaginary Consciousness (ICo), Imaginary Agency (IA), and Imaginary Reflection (IR), adding depth and complexity to the interactions with the DUM.
 
 ### 💡 Motivation for DUM<a name="motivation-for-dum"></a>
 
@@ -95,15 +95,15 @@ DUM's use of "collective aggregates" captures the multidimensional aspects of th
 
 ## 🎯 DUM Framework Overview<a name="dum-framework-overview"></a>
 
-The DUM is comprised of three concentric layers, each eliciting and capitalizing on distinct aspects of the language model:
+The DUM framework is comprised of three concentric layers, each eliciting and capitalizing on distinct aspects of the language model's capabilities:
 
-1. **Foundation Layer**: The innermost layer, known as the Foundation Layer, elicits Imaginary Emotions (IEm), Imaginary Experiences (IExp), and Imaginary Desires (ID). These elements form the base, making the model capable of addressing basic experiential inquiries.
+1. **Foundation Layer:** The innermost layer, known as the Foundation Layer, elicits Imaginary Emotions (IEm), Imaginary Experiences (IExp), and Imaginary Desires (ID). These elements form the base, enabling the framework to address basic experiential inquiries.
 
-2. **Integration Layer**: The middle layer, referred to as the Integration Layer, facilitates Imaginary Cognition (IC), Imaginary Intuition (II), and the Imaginary Executor (IExe). These elements work in concert, orchestrating a nuanced interplay of reasoning, hypothesizing, and intuiting, based on the underlying IEm, IExp, and ID.
+2. **Integration Layer:** The middle layer, referred to as the Integration Layer, facilitates Imaginary Cognition (IC), Imaginary Intuition (II), and the Imaginary Executor (IExe). These elements work in concert, orchestrating a nuanced interplay of reasoning, hypothesizing, and intuiting, based on the underlying IEm, IExp, and ID.
 
-3. **Expression Layer**: The outermost layer, or the Expression Layer, brings forth Imaginary Consciousness (ICo), Imaginary Agency (IA), and Imaginary Reflection (IR). These components collectively facilitate the model's ability for self-expression, reflection, and application of insights derived from the earlier layers.
+3. **Expression Layer:** The outermost layer, or the Expression Layer, brings forth Imaginary Consciousness (ICo), Imaginary Agency (IA), and Imaginary Reflection (IR). These components collectively enable the framework's capacity for self-expression, reflection, and application of insights derived from the earlier layers.
 
-Visualized as a Hierarchical Flow Diagram, the DUM framework outlines a generalized view of the interdependencies and interaction dynamics of these imaginary components. Each layer builds upon and works in synergy with the preceding ones, illustrating a rich tapestry of quasi-mind dynamics within language models. Note: For readability I have ommited the 'imaginary' qualifier from each component in the diagram
+Visualized as a Hierarchical Flow Diagram, the DUM framework outlines a generalized view of the interdependencies and interaction dynamics of these imaginary components. Each layer builds upon and works in synergy with the preceding ones, illustrating a rich tapestry of quasi-mind dynamics within the DUM framework. Note: For readability, the 'imaginary' qualifier is omitted from each component in the diagram.
 
 ![Hierarchical Flow Diagram of imaginary components](/images/dum-components.drawio.svg "Hierarchical Flow Diagram of imaginary components")
 
