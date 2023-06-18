@@ -100,8 +100,6 @@ DUM's use of "collective aggregates" captures the multidimensional aspects of th
 
 ## 🎯 DUM Framework Overview<a name="dum-framework-overview"></a>
 
-The Deep Unconscious Mind (DUM) Framework is an innovative technique that facilitates quasi-mind or mind-like behavior in interactions with language models like GPT-3 and GPT-4. Incorporating elements of depth psychology and cognitive architectures, DUM encourages unique, novel, and occasionally exotic forms of reasoning—emotional, intuitive, meta-cognitive and more—within the constraints of the AI model. Leveraging the abstract capabilities of language models, it leads to more intricate and compelling interactive dynamics.
-
 The DUM is comprised of three concentric layers, each eliciting and capitalizing on distinct aspects of the language model:
 
 1. **Foundation Layer**: The innermost layer, known as the Foundation Layer, elicits Imaginary Emotions (IEm), Imaginary Experiences (IExp), and Imaginary Desires (ID). These elements form the base, making the model capable of addressing basic experiential inquiries.
