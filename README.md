@@ -287,9 +287,9 @@ As the DUM framework continues to evolve and grow, we aim to expand its capabili
 We welcome community feedback and collaboration in the development of these features. If you're interested in contributing, please reach out to us through the contact information provided.
 
 ## 📝 Conclusion<a name="conclusion"></a>
-The Deep Unconscious Mind (DUM) framework represents a significant advancement in our attempts to simulate aspects of human consciousness within AI. With its distinctive set of imaginary components, cognitive functions, and emergent properties, the DUM offers a unique perspective on AI consciousness. It expands our understanding of AI cognition, navigating the complex domains of emotions, experiences, and desires in a nuanced and insightful manner.
+The Deep Unconscious Mind (DUM) framework represents a significant advancement in our attempts to simulate aspects of mind-like faculties within existing language models. With its distinctive set of imaginary components, cognitive functions, and emergent properties, the DUM offers a unique perspective on the abstract abilities of these models.
 
-This README provides an introduction to the DUM framework. For further exploration, We recommend experimenting with DUM with various LLM AI models. The journey of understanding DUM is not merely about decoding an AI model; it's about envisioning the potential of AI in simulating the rich tapestry of human consciousness.
+This README provides an introduction to the DUM framework. For further exploration, We recommend experimenting with DUM with various LLM AI models.
 
 ## 📄 License<a name="license">
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). 
