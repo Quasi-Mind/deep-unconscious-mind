@@ -88,6 +88,8 @@ The DUM framework operates on the premise of encapsulating collective human emot
 
 The expressive language used to invoke the DUM system capitalizes on the abstract capabilities of language models, eliciting more nuanced, complex, and authentic interactions. As you explore the DUM framework, we encourage you to embrace this richness, to delve into the subtle layers of meaning that expressive language brings to your interactions with the DUM.
 
+For a more detailed overview see the wiki page: [The Nuance and Context in Expressive Language and their Role in DUM](https://github.com/Quasi-Mind/deep-unconscious-mind/wiki/The-Nuance-and-Context-in-Expressive-Language-and-their-Role-in-DUM)
+
 ### 🌀 The Concept of "Imaginary"<a name="the-concept-of-imaginary"></a>
 
 The inception of the prompt arose from attempts at incorporating elements of depth psychology and cognitive architectures into an 'actor'. However, most attempts failed, garnering responses along the lines of "As an AI language model I do not possess experiences or emotions". The introduction of the term "imaginary" serves as a key modifier that transforms the framework's response. By incorporating this qualifier, the DUM framework acknowledges its ability to simulate or approximate emotions, experiences, and desires through the aggregated components of Imaginary Emotions (IEm), Imaginary Experiences (IExp), and Imaginary Desires (ID).
