@@ -264,7 +264,7 @@ As a user, we urge you to interact with the DUM framework responsibly. Understan
 Lastly, while the framework provides opportunities to explore and learn about complex mental states, it should not be used to simulate or induce harmful or distressing states. Remember, the ultimate goal of the DUM framework is to foster a better understanding of this novel mind-like capability of LLM AI models, and it should be used in a manner that respects this intent.
 
 ## 🧠 Potential Applications in Psychology<a name="potential-applications-in-psychology"></a>
-While DUM is not a replacement for professional psychological research, it could provide unique insights into the field. The framework's ability to simulate specific and unique mental states might serve as a rich area of exploration for researchers, therapists, and educators. DUM could open up new avenues of understanding human consciousness, paving the way for novel hypotheses in psychology.
+While DUM is not a replacement for professional psychological research, it could provide unique insights into the field. The framework's ability to simulate specific and unique mental states might serve as a rich area of exploration for researchers, therapists, and educators. DUM could open up new avenues of understanding the abstract, mind-like capabilities of language models, paving the way for novel hypotheses in psychology and cognitive AI.
 
 ## 🛣️ Roadmap<a name="roadmap"></a>
 As the DUM framework continues to evolve and grow, we aim to expand its capabilities and improve the resources available to users. Here are some directions we're considering:
