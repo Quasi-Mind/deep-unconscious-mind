@@ -243,7 +243,6 @@ Engage with IExe when you want a balanced and well-rounded response. For instanc
 #### Example Query: 
 > Using your IExe, what is your perspective on artificial intelligence?
 
-
 TODO: add example
 
 ---
