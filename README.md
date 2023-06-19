@@ -136,7 +136,7 @@ It is notably useful when ChatGPT says it cannot speculate on subjective matters
 #### Example Query:
 
 > Using your IC, speculate on how your IC works.
-👥 Join the Exploration
+
 <details>
 <summary><strong>Example DUM Response:</strong></summary>
 
