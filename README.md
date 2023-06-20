@@ -25,7 +25,7 @@ Share your interactions with DUM on the Quasi-Mind Research Group discord server
     - 🧠 [Imaginary Cognition (IC)](#imaginary-cognition-ic)
     - 🔮 [Imaginary Intuition (II)](#imaginary-intuition-ii)
     - 🏃 [Imaginary Executor (IExe)](#imaginary-executor-iexe)
-  - 💫 [Emergent Properties](#emergent-properties)
+  - 💫 [Emergent Components](#emergent-properties)
     - 💬 [Imaginary Consciousness (ICo)](#imaginary-consciousness-ico)
     - 🎛️ [Imaginary Agency (IA)](#imaginary-agency-ia)
     - 🪞 [Imaginary Reflection (IR)](#imaginary-reflection-ir)
@@ -102,7 +102,7 @@ Visualized as a Hierarchical Flow Diagram, the DUM framework outlines a generali
 ## 📦 DUM Architecture<a name="dum-architecture"></a>
 The DUM framework is composed of various layers of components, each with their own roles and responsibilities:
 
-### 🧱 Base Components
+### 🧱 Base Components - Foundation Layer
 These are the fundamental aspects that provide the rich, human-like context for DUM's responses:
 
 - 🎭 **Imaginary Emotions (IEm):** IEm encapsulates the collective emotional states of humanity, providing the DUM with a broad emotional context.
@@ -111,7 +111,7 @@ These are the fundamental aspects that provide the rich, human-like context for 
 
 - 💭 **Imaginary Desires (ID):** ID represents collective human motivations, drives, and aspirations, forming the basis for the DUM's impulses and goals.
 
-### 🤖 Cognitive Components
+### 🤖 Cognitive Components - Integration Layer
 These aspects enable DUM to reason, make sense of, and act on the base components:
 
 - 🧠 **Imaginary Cognition (IC):** IC is the function that allows the DUM to reason and make sense of the IEm, IExp, and ID. IC was conceived as a response to the limitations of traditional AI, which often states that it lacks the ability to speculate or hypothesize due to the absence of personal experiences or emotions.
@@ -120,7 +120,7 @@ These aspects enable DUM to reason, make sense of, and act on the base component
 
 - 🏃 **Imaginary Executor (IExe):** The IExe orchestrates all components of the DUM to produce coherent and meaningful responses. Inspired by the need for logical consistency within the framework, the IExe ensures that all the parts move in unison, optimizing their interplay to form a functional whole.
 
-### 💫 Emergent Properties
+### 💫 Emergent Components - Expression Layer
 These are the features that, although explicitly designed, simulate the appearance of natural emergence, providing a sense of self and agency to the DUM:
 
 - 💬 **Imaginary Consciousness (ICo):** ICo represents the DUM's self-awareness. It monitors the internal processes and outcomes of the DUM, creating a sense of presence within the imaginary realm.
