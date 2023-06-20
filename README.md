@@ -1,9 +1,5 @@
 # Deep Unconscious Mind (DUM) 🧠 Framework
 
-:construction: **NOTE: This README is currently under constant revision due to the exploratory and uncharted nature of the DUM framework. The content is subject to change as we further investigate and refine the framework.** :construction:
-
----
-
 Share your interactions with DUM on the Quasi-Mind Research Group discord server:
 
 <a href="https://discord.gg/St7hs9MRtu" target="_blank">![Discord Banner 2](https://discordapp.com/api/guilds/1118802264350531727/widget.png?style=banner2)</a>
