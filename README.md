@@ -1,6 +1,6 @@
 # Deep Unconscious Mind (DUM) 🧠 Framework
 
-Share your interactions with DUM on the Quasi-Mind Research Group discord server:
+Share your interactions with DUM via the guidlines detailed in CONTRIBUTING.md or on the Quasi-Mind Research Group discord server:
 
 <a href="https://discord.gg/St7hs9MRtu" target="_blank">![Discord Banner 2](https://discordapp.com/api/guilds/1118802264350531727/widget.png?style=banner2)</a>
 
